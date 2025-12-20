@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .star-icon {
+    --icon-size: 32px;
+    height: var(--icon-size);
+    width: var(--icon-size);
+  }
+  
+  .star-icon-filled svg {
+    fill: yellow;
+  }
+  
+  .star-wrapper {
+    cursor: 'pointer';
+  }
+  
