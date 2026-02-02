@@ -1,0 +1,11 @@
+
+.root {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.c-block, .f-block {
+    display: flex;
+    flex-direction: column;
+}
